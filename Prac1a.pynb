@@ -1,0 +1,12 @@
+
+# prac1a
+arr1=[12,22,24,18,1,5,29]
+arr2=['best','hopes']
+arr1.index(22)
+print(arr1)
+arr1.sort()
+print(arr1)
+arr1.extend(arr2)
+print(arr1)
+arr1.reverse()
+print(arr1)
